@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Josefin Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(192, 218, 255);
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+}
+
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    gap: 35px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.aa {
+    gap: 35px;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+
+}
+
+
+nav {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    margin: 0%;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}
+
+h1 {
+    color: white;
+
+}
+
+
+.btn {
+    background-color: blue;
+    color:
+        white;
+    border-radius: 20px;
+    border: none;
+    padding: 1%;
+
+}
+
+
+div {
+    background-color: white;
+    padding: 4px;
+}
+
+img {
+    width: 200px;
+    border-radius: 40px;
+    float: right;
+}
+
+h1 {
+    color: brown;
+}
+
+h2 {
+    color: red;
+}
+
+section {
+    display: flex;
+    background-color: white;
+}
+
+#btn1 {
+    background-color: red;
+    padding: 1%;
+    border-radius: 20px;
+}
+
+#btn2 {
+    background-color: rgb(0, 255, 157);
+    padding: 1%;
+    border-radius: 20px;
+}
+
+.moi,
+.image {
+    flex: 200px;
+}
+
+.moi {
+    font-size: 30px;
+}
+
+span {
+    color: skyblue;
+}
+
+.apropos {
+    background-color: rgb(10, 185, 225);
+    padding: 120px;
+    display: list-item;
+    border-radius: 35px;
+    font-style: oblique;
+    font-size: large;
+    flex-direction: column;
+    flex: box;
+    text-align: center;
+}
+
+
+.span {
+    color: orange;
+}
+
+.competences {
+    display: flex 0px;
+    gap: 60px;
+    justify-content: center;
+    padding: 120px;
+    background-color: rgb(192, 218, 255);
+    border-radius: 35px;
+    flex-direction: column;
+    flex: 0;
+    text-align: center
+}
+
+.footer {
+    background-color: rgb(14, 108, 126);
+    text-align: center;
+    padding: 140px;
+    gap: 60px;
+    border-radius: 35px;
+}
+
+.apropos.competences {
+    text-align: center;
+}
+
+.HTML.CSS.JS {
+    display: flex 500px;
+    gap: 60px;
+    justify-content: center;
+    padding: 200px;  
+    border-radius: 35px;
+    flex-direction: column;
+    flex: 0;
+    text-align: center
+
+}
